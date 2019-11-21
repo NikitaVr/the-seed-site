@@ -6,7 +6,7 @@ description: A multiplayer game designed for AI
 
 # User settings
 username: Anon Developer
-detailed_description: We are building an architecture to make it easier to perform experiments with Reinforcement Learning, bots, and other algorithms. The basis is a server with the game logic, a sample client to receive game state and send player actions, and a renderer to observe how the agents are playing the game.
+detailed_description: We are building an architecture to make it easier to perform experiments with Reinforcement Learning, bots, and other algorithms. The basis is a server with the game logic, a sample client to receive game state and send player actions, and a renderer to observe how the agents are playing the game. The Goal is to make an environment that is easy to work with, but allows a user to create many complex experiments.
 user_title: Software Developer
 email: anon@anon.com
 twitter_username: lorem_ipsum
